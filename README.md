@@ -14,6 +14,6 @@
 * modals ,collapse  
 
 
-![My Image](Web%20capture%20(Daniels).jpeg)
+![My Image](simone.jpeg).jpeg)
 
 demo live : https://mostafamorcy.github.io/Simone-/
